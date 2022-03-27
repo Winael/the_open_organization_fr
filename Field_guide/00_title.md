@@ -4,4 +4,10 @@ author:
 translator: Winael
 ---
 
-# The Open Organization - Guide Pratique
+# The Open Organization
+
+Conseils pratiques pour enflammer la passion et la performance
+
+
+
+Avec une introduction de Brook Manville
